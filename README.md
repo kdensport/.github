@@ -10,7 +10,7 @@ Btw, <em>(Ssst...)</em> <a href="https://ligmatv.vercel.app/101/NonPublic.html">
 
 <h3 id="sports">Sports</h3><p>
 <a href="https://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=7DjCxLBr2HU&amp;theme=buefy" alt="1"></a><br>
-<a href="hhttps://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=r02dkXgYEfc&amp;theme=buefy" alt="2"></a></p>
+<a href="https://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=r02dkXgYEfc&amp;theme=buefy" alt="2"></a></p>
 
 <h3 id="programming">Programming</h3><p>
 <a href="https://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=iKCjiWrgyXI&amp;theme=buefy" alt="1"></a>  </p>
