@@ -1,19 +1,18 @@
-### My YouTube channel
-*[Subscribe](https://l-i.vercel.app/youtube) pls*  
-Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.html)
-  
-![LIGMATV's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5)
+<!-- For Kdensport website --!>
 
+<h3 id="my-youtube-channel">My YouTube channel</h3>
+<p><em><a href="https://l-i.vercel.app/youtube">Subscribe</a> pls</em><br>
+Btw, <em>(Ssst...)</em> <a href="https://ligmatv.vercel.app/101/NonPublic.html">Non Public Videos</a></p>
+<p><img src="https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&amp;title_color=367B80&amp;icon_color=893AEF&amp;text_color=367B80&amp;bg_color=EFF1F5" alt="LIGMATV&#39;s youtube stats"></p>
 
 <details><summary><h1>Kdensport Videos</h1></summary>
 <div align="center">
 
+<h3 id="sports">Sports</h3><p>
+<a href="https://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=7DjCxLBr2HU&amp;theme=buefy" alt="1"></a><br>
+<a href="hhttps://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=r02dkXgYEfc&amp;theme=buefy" alt="2"></a></p>
 
-### Sports
-[![1](https://youtube-stats-card.vercel.app/api/video?videoid=7DjCxLBr2HU&theme=buefy)](https://l-i.vercel.app/youtube)  
-[![2](https://youtube-stats-card.vercel.app/api/video?videoid=r02dkXgYEfc&theme=buefy)](hhttps://l-i.vercel.app/youtube)
-
-### Programming
-[![1](https://youtube-stats-card.vercel.app/api/video?videoid=iKCjiWrgyXI&theme=buefy)](https://l-i.vercel.app/youtube)  
+<h3 id="programming">Programming</h3><p>
+<a href="https://l-i.vercel.app/youtube"><img src="https://youtube-stats-card.vercel.app/api/video?videoid=iKCjiWrgyXI&amp;theme=buefy" alt="1"></a>  </p>
 
 </div>
