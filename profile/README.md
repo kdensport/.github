@@ -11,7 +11,7 @@ Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.ht
 
 ### Sports
 [![1](https://youtube-stats-card.vercel.app/api/video?videoid=7DjCxLBr2HU&theme=buefy)](https://l-i.vercel.app/youtube)  
-[![2](https://youtube-stats-card.vercel.app/api/video?videoid=r02dkXgYEfc&theme=buefy)](hhttps://l-i.vercel.app/youtube)
+[![2](https://youtube-stats-card.vercel.app/api/video?videoid=r02dkXgYEfc&theme=buefy)](https://l-i.vercel.app/youtube)
 
 ### Programming
 [![1](https://youtube-stats-card.vercel.app/api/video?videoid=iKCjiWrgyXI&theme=buefy)](https://l-i.vercel.app/youtube)  
