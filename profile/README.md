@@ -1,6 +1,6 @@
 ### My YouTube channel
 *[Subscribe](https://l-i.vercel.app/youtube) pls*  
-Btw, *(Ssst...)* [Non Public Videos](https://ligmatv.vercel.app/101/NonPublic.html)
+Btw, *(Ssst...)* [Non Public Videos](https://l-i.now.sh/nonpublic)
   
 ![LIGMATV's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5)
 
