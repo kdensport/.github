@@ -6,7 +6,8 @@
 | Video | Files |
 | --- | --- |
 | [FIFA Women's World Cup Intro Compilation (1995 - 2023)](https://www.youtube.com/watch?v=7DjCxLBr2HU) | *None* |
-| [FIFA U17 World Cup Intro Compilation (2003 - 2023)](https://www.youtube.com/watch?v=r02dkXgYEfc) | [assets/FIFA U17 World Cup Intro Compilation (2003 - 2023)](https://github.com/kdensport/assets/tree/main/FIFA%20U17%20World%20Cup%20Intro%20Compilation%20(2003%20-%202023))
+| [FIFA U17 World Cup Intro Compilation (2003 - 2023)](https://www.youtube.com/watch?v=r02dkXgYEfc) | [assets/FIFA U17 World Cup Intro Compilation (2003 - 2023)](https://github.com/kdensport/assets/tree/main/FIFA%20U17%20World%20Cup%20Intro%20Compilation%20(2003%20-%202023)) |
+| [UEFA Euro Intro Compilation (1984 - 2024)](https://www.youtube.com/watch?v=5APvIhVqJaU) | [assets/UEFA Euro Intro Compilation (1984 - 2024)](https://github.com/kdensport/assets/tree/main/UEFA%20Euro%20Intro%20Compilation%20(1984%20-%202024)) |
 
 ## 2. [Ringtones](https://www.youtube.com/playlist?list=PLsiKxvdO6IR-dMRIe3A3wSarUdSJYVh_Z)
 | Video | Files |
